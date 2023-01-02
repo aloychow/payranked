@@ -1,0 +1,135 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: -apple-system, system-ui, BlinkMacSystemFont;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+/* BLOG */
+/* 
+----------------- Pagination Styling ----------------- 
+Since pagination library takes in class names only
+e.g. .abc
+*/
+
+.paginationBtns {
+	width: auto;
+	height: 2.5rem;
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background-color: white;
+	border-radius: 0.5rem;
+	padding: 1.5rem 0.25rem;
+	/* box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2); */
+}
+
+.paginationBtns a {
+	color: #505866;
+	padding: 0.4375rem 0.75rem;
+	margin: 0.25rem;
+	border-radius: 0.25rem;
+	cursor: pointer;
+}
+
+.paginationBtns a:hover {
+	color: #6c84fc;
+	background: #f2f2f2;
+}
+
+.paginationDisabled a {
+	color: #bac0c7;
+	background: #f2f2f2;
+	cursor: default;
+}
+
+.paginationDisabled a:hover {
+	color: #bac0c7;
+	background: #f2f2f2;
+	cursor: default;
+}
+
+.paginationActive a {
+	color: white;
+	background-color: #6c84fc;
+}
+
+.paginationActive a:hover {
+	color: white;
+	background-color: #6c84fc;
+}
+
+.nextBtn {
+	color: black;
+}
+
+.nextBtn :hover {
+	color: black;
+}
+
+/* Pagination 2 */
+
+.paginationBtns2 {
+	width: auto;
+	height: 2.5rem;
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background-color: #d3eaed;
+	/* border: 1px solid #70A7B0; */
+	border-radius: 0.5rem;
+	padding: 1.5rem 0.25rem;
+	/* box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2); */
+}
+
+.paginationBtns2 a {
+	color: #505866;
+	padding: 0.4375rem 0.75rem;
+	margin: 0.25rem;
+	border-radius: 0.25rem;
+	cursor: pointer;
+}
+
+.paginationBtns2 a:hover {
+	color: white;
+	background: #70a7b0;
+}
+
+.paginationDisabled2 a {
+	color: #bac0c7;
+	background: #d3eaed;
+	cursor: default;
+}
+
+.paginationDisabled2 a:hover {
+	color: #bac0c7;
+	background: #d3eaed;
+	cursor: default;
+}
+
+.paginationActive2 a {
+	color: white;
+	background-color: #70a7b0;
+}
+
+.paginationActive2 a:hover {
+	color: white;
+	background-color: #70a7b0;
+}
+
+.nextBtn2 {
+	color: black;
+}
+
+.nextBtn2 :hover {
+	color: black;
+}
