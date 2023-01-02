@@ -11,7 +11,7 @@ This project uses the React library and Next.js framework for serverside renderi
 1. **Full Transparency**: Transparency in the workplace helps to align employees expectations, ensuring that every individual is fairly compensated. It also leads to happier and healthier employees. Stop pay discrimination now!
 2. **Cohesive Evaluation**: Jobs are not only about money. We use various metrics to evaluate jobs and companies - comprising not only extrinsic metrics like compensation, but intrinsic ones like work-life balance and culture.
 3. **Complete Anonymity**: All your company-related information is encrypted and untraceable - not even by us! Share your experiences at your company with other people without worrying at all.
-> "Prime Supermarket has been facing increasing competition from both direct and indirect competitors. "
+
 ‍
 ## Key Pages:
 
