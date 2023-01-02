@@ -19,12 +19,12 @@ This project uses the React library and Next.js framework for serverside renderi
 
 The company page includes information about a specific company, and has an overview and reviews section:
 
-**Overview Section**
+**Overview Section**:
 This section includes the overall company ratings determined by 4 aspects, general salary information such as mean, median, etc, an interactive barchart showing compensation distribution, and a table with specific individual job information.
 
 ![screencapture-payranked-companies-bytedance-2023-01-02-18_22_39](https://user-images.githubusercontent.com/42771547/210218982-ca2d22dd-e80b-454c-85f4-4bed6cd056fc.png)
 
-**Review Section**
+**Review Section**:
 This section shows the overall ratings, compared against the ratings of other companies. It also inludes reviews from people.
 
 ### 2) Job Page
