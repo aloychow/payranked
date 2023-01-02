@@ -51,7 +51,7 @@ This allows for people to submit job information anonymously.
 
 These pages are blog posts written by me, including a full markdown editor (only accessible after logging in and by admins i.e. me). Therefore, the blog posts include features like links (with hover effects), images, h1, h2, h3..., bullet points. Admins are also capable of editing the blog posts directly.
 
-![Uploading screencapture-payranked-blog-mastering-common-behavioral-questions-in-job-interviews-2023-01-02-18_29_10.png…]()
+![screencapture-payranked-blog-mastering-common-behavioral-questions-in-job-interviews-2023-01-02-18_29_10](https://user-images.githubusercontent.com/42771547/210219656-24a6a5ec-5ca1-4dba-b79a-059fa12a6541.png)
 
 ## Other Pages:
 
