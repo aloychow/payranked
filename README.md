@@ -1,34 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PayRanked: Jobs & Company Aggregator
 
-## Getting Started
+Company and job transparency have been at an all-time low, with employers trying to prevent salary discussions among employees, and the lack of company and job specific information available on the internet. This poses a huge problem to the vast majority of job seekers. PayRanked aims to put the power back into the hands of job seekers by promoting job transparency in the workplace.
 
-First, run the development server:
+Payranked uses a combination of qualitative and quantitative metrics like salary, work-life balance, and many more to help job seekers find their dream job. 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Multi-Pronged Approach
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. **Full Transparency**: Transparency in the workplace helps to align employees expectations, ensuring that every individual is fairly compensated. It also leads to happier and healthier employees. Stop pay discrimination now!
+2. **Cohesive Evaluation**: Jobs are not only about money. We use various metrics to evaluate jobs and companies - comprising not only extrinsic metrics like compensation, but intrinsic ones like work-life balance and culture.
+3. **Complete Anonymity**: All your company-related information is encrypted and untraceable - not even by us! Share your experiences at your company with other people without worrying at all.
+> "Prime Supermarket has been facing increasing competition from both direct and indirect competitors. "
+‍
+## Key Pages:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### 1) Company Page
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### 2) Job Page
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### 3) Submission Page
 
-## Learn More
+### 4) Blog Post Page
 
-To learn more about Next.js, take a look at the following resources:
+## Other Pages:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 1) Main Page
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### 2) Companies Page
 
-## Deploy on Vercel
+### 3) Jobs Page
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 4) Salaries Page
+‍
+### 5) Blogs Page
