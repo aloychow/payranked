@@ -27,23 +27,31 @@ This section includes the overall company ratings determined by 4 aspects, gener
 **Review Section**:
 This section shows the overall ratings, compared against the ratings of other companies. It also inludes reviews from people.
 
+![screencapture-payranked-companies-bytedance-2023-01-02-18_25_00](https://user-images.githubusercontent.com/42771547/210219178-ce0bf5d7-a18a-4c3d-8291-82b39e42963a.png)
+
 ### 2) Job Page
 
 This section is very similar to the company page, except that instead of company-specific information, it now showcases job-specific information.
 
 **Overview Section**
 
+![screencapture-payranked-jobs-software-engineer-2023-01-02-18_26_18 (1)](https://user-images.githubusercontent.com/42771547/210219319-ca1976b8-91b5-4f4b-a0b2-fff403c2c19d.png)
 
 **Review Section**
 
+![screencapture-payranked-jobs-software-engineer-2023-01-02-18_26_34](https://user-images.githubusercontent.com/42771547/210219368-f8c71da8-6181-475b-ac02-45743da73213.png)
 
 ### 3) Submission Page
 
 This allows for people to submit job information anonymously.
 
+![screencapture-payranked-submission-full-2023-01-02-18_27_59](https://user-images.githubusercontent.com/42771547/210219434-8145f363-f199-4768-8f9a-48dad1d64f05.png)
+
 ### 4) Blog Post Page
 
 These pages are blog posts written by me, including a full markdown editor (only accessible after logging in and by admins i.e. me). Therefore, the blog posts include features like links (with hover effects), images, h1, h2, h3..., bullet points. Admins are also capable of editing the blog posts directly.
+
+![Uploading screencapture-payranked-blog-mastering-common-behavioral-questions-in-job-interviews-2023-01-02-18_29_10.png…]()
 
 ## Other Pages:
 
