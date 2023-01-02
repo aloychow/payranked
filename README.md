@@ -57,13 +57,23 @@ These pages are blog posts written by me, including a full markdown editor (only
 
 ### 1) Main Page
 
+![screencapture-payranked-2023-01-02-18_32_22](https://user-images.githubusercontent.com/42771547/210219942-c183e610-2643-4919-b0ad-8827a329ebed.png)
+
 ### 2) Companies Page
+
+![screencapture-payranked-companies-2023-01-02-18_33_15](https://user-images.githubusercontent.com/42771547/210220006-28f1605d-6daf-4f6b-89c0-6a67395744ba.png)
 
 ### 3) Jobs Page
 
+![screencapture-payranked-jobs-2023-01-02-18_33_54](https://user-images.githubusercontent.com/42771547/210220086-e3f03638-be7c-43df-8dca-e1c973002028.png)
+
 ### 4) Salaries Page
-‍
+
+‍![screencapture-payranked-salaries-2023-01-02-18_34_37](https://user-images.githubusercontent.com/42771547/210220134-bf6f1b0a-94fa-4081-87b1-ffefee09766a.png)
+
 ### 5) Blogs Page
+
+![screencapture-payranked-blog-2023-01-02-18_35_16](https://user-images.githubusercontent.com/42771547/210220212-42da9ad3-6599-4421-8489-2d274c855e5e.png)
 
 ## Miscellaneous Pages:
 
@@ -71,6 +81,11 @@ These pages are blog posts written by me, including a full markdown editor (only
 
 I made a meet the team page, which included some friends. It includes a hover effect for the images.
 
+![Screenshot 2023-01-02 at 6 36 11 PM](https://user-images.githubusercontent.com/42771547/210220253-34bfd73e-fadd-4e13-ac1c-57aed7d0661a.png)
+![Screenshot 2023-01-02 at 6 36 35 PM](https://user-images.githubusercontent.com/42771547/210220295-7a36176b-d110-4c15-a7e7-0c32c126d044.png)
+
 ### 404 Page
 
 If you click on a broken link or visit a non-existent URL, you will be redirected to a 404 page.
+
+![Screenshot 2023-01-02 at 6 36 49 PM](https://user-images.githubusercontent.com/42771547/210220322-20eeb933-0f0f-4714-8949-335a3b97e484.png)
